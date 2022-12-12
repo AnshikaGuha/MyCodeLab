@@ -1,0 +1,3 @@
+Paste the HTML link/url from raw in:
+
+https://htmlpreview.github.io/
